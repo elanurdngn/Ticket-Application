@@ -5,7 +5,7 @@ Projem, kullanıcı ve otobüs bileti oluşturmanıza , oluşturulan bileti rota
 # Projede Kullanılan Teknolojiler 
 
 - Projemiz Spring Boot Mvc projesidir.
-- ORM aracı olarak Spring Data Jpa kullanilmistir.
-- Db icin H2 Database kullanilmisitir.
+- ORM aracı olarak Spring Data Jpa kullanılmıştır.
+- Db için H2 Database kullanılmıştır.
 - Lombok
 - Maven
